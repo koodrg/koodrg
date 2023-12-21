@@ -1,16 +1,30 @@
-### Hi there 👋
+# 👋 Hello World! I'm Quy Nguyen
 
-<!--
-**koodrg/koodrg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate about coding, innovation, and building things that matter. Currently exploring the vast world of technology and honing my skills.
 
-Here are some ideas to get you started:
+## 🚀 Key Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Languages: PHP, C#, JavaScript, TypeScript, Golang
+- 🌐 Web Technologies: Laravel, .NET Core, NodeJS, Gin
+- 🛠 Tools: Git, VS Code, Visual Studio, Docker
+
+## 🌟 Featured Projects
+
+1. **[Restaurant review](https://github.com/koodrg/restaurant-review):** A project that help us to choose best restaurant to hang out
+2. **[Chat Soketi](https://github.com/koodrg/chat_soketi):** A chat application using Laravel, Soketi and jquery.
+
+## 📚 Learning Journey
+
+Always excited to learn and stay up-to-date with the latest tech trends. Currently diving into Laravel, Golang, Redis.
+
+## 🌈 Let's Connect
+
+- 📧 Email: quynguyen091020@gmail.com
+- 🌐 LinkedIn: [Quy Nguyen](https://www.linkedin.com/in/quy-nguyen-7b5b70265/)
+- 🐦 Facebook: [Nguyễn Hữu Minh Quý](https://www.facebook.com/abc.xyz.0910)
+
+## 🌐 Portfolio
+
+Check out my portfolio: [Quy Nguyen](https://your-username.github.io)
+
+Looking forward to collaborating and creating amazing things together!
