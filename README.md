@@ -10,7 +10,7 @@ Passionate about coding, innovation, and building things that matter. Currently 
 
 ## 🌟 Featured Projects
 
-1. **[Restaurant review](https://github.com/koodrg/restaurant-review):** A project that help us to choose best restaurant to hang out
+1. **[Social app](https://github.com/koodrg/social):** A simple clone of Instagram
 2. **[Chat Soketi](https://github.com/koodrg/chat_soketi):** A chat application using Laravel, Soketi and jquery.
 
 ## 📚 Learning Journey
