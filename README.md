@@ -23,8 +23,4 @@ Always excited to learn and stay up-to-date with the latest tech trends. Current
 - 🌐 LinkedIn: [Quy Nguyen](https://www.linkedin.com/in/quy-nguyen-7b5b70265/)
 - 🐦 Facebook: [Nguyễn Hữu Minh Quý](https://www.facebook.com/abc.xyz.0910)
 
-## 🌐 Portfolio
-
-Check out my portfolio: [Quy Nguyen](https://your-username.github.io)
-
 Looking forward to collaborating and creating amazing things together!
