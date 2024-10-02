@@ -12,6 +12,7 @@ Passionate about coding, innovation, and building things that matter. Currently 
 
 1. **[Social app](https://github.com/koodrg/social):** A simple clone of Instagram
 2. **[Chat Soketi](https://github.com/koodrg/chat_soketi):** A chat application using Laravel, Soketi and jquery.
+3. **[Blog app](https://github.com/koodrg/blog):** A blog application using Laravel, MongoDB and Elasticsearch.
 
 ## 📚 Learning Journey
 
